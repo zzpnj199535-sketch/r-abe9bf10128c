@@ -4,6 +4,6 @@ Most evaluation items are publicly available, with a small subset withheld to re
 
 The archive contains `data/task.jsonl` and the corresponding answers in `data/task_answers.jsonl`.
 
-The data and answer files use UTF-8 encoding and JSONL format. Each answer record contains `id` and `answer`. Match dataset and answer records by `id`, preserving IDs as strings.
+The data and answer files use UTF-8 encoding and JSONL format. Each answer record contains the `id` and `answer` fields.  Match data records to answer records by `id`.
 
 **License**: Non-commercial academic research only. See [LICENSE](LICENSE).
