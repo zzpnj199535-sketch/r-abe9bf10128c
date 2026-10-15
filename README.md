@@ -1,6 +1,6 @@
 # Datasets
 
-Most of the benchmark’s evaluation items are publicly available, with a small subset withheld to reduce the risk of test data contamination.
+Most evaluation items are publicly available, with a small subset withheld to reduce the risk of test data contamination.
 
 The archive contains `data/task.jsonl` and the corresponding answers in `data/task_answers.jsonl`.
 
